@@ -10,6 +10,8 @@ main {
 
 .fond {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
 
@@ -19,9 +21,8 @@ main {
 
 .nom {
     color: #464242;
-    margin-top: 15vh;
     font-family: Bright;
-    font-size: 7vh;
+    font-size: 15vh;
     letter-spacing: 3px;
 }
 
