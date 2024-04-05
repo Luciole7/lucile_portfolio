@@ -6,12 +6,12 @@ body {
 main>div {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .autour {
     display: flex;
     margin: 50px;
-    flex: wrap; 
 }
 
 .bouton {
