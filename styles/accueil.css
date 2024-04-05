@@ -5,6 +5,7 @@ body {
 main {
     margin-bottom: 40px;
 }
+
 .fond {
     display: flex;
     flex-wrap: wrap;
