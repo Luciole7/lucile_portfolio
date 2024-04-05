@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-main>div {
+.wrap{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
