@@ -18,6 +18,7 @@ header {
     display: flex;
     justify-content: center;
     gap: 20vh;
+    margin: 10px;
 }
 /*fin du header*/
 
@@ -40,6 +41,7 @@ footer {
 .copyright {
     display: flex;
     justify-content: center;
+    text-align: center;
     margin-top: 30px;
 }
 
